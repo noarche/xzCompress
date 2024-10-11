@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/6ae25f15-e993-4423-bd43-3f1d9de58190)
+
+
 # xzCompress
 Easily compress and extract files and directories in .XZ format.
 
